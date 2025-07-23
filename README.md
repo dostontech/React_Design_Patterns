@@ -190,6 +190,6 @@ Use this repo as a reference, learning tool, or a starting point for your own ap
 
 ## 🎥 Bonus: Tutorial Scripts (Coming Soon)
 
-We're preparing step-by-step YouTube tutorials explaining how and **why** to use each pattern, using this codebase.
+I am preparing step-by-step YouTube tutorials explaining how and **why** to use each pattern, using this codebase.
 
 ## Feel free to contribute improvements or request a new pattern
